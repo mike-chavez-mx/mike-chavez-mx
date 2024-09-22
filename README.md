@@ -3,21 +3,16 @@
 
 <h2> Hola ! </h2>
 
-<p> Bienvenid@ a mi página </p>
-
-<p style="font-size:1.1rem; margin-bottom:20px">
-Soy Miguel, desarrollador fullstack de Chihuahua, México.
+<p>
+Soy Miguel, desarrollador full stack de Chihuahua, México.
 </p>
-<p style="font-size:1.1rem; margin-bottom:20px">
-Apasionado 
-por la creación de soluciones 
-y el mejoramiento de procesos.
+
+<p>
+Apasionado por la creación de soluciones y el mejoramiento de procesos.
 </p>
 
 </br>
-<p> <b style="font-size:1.1rem; margin-top:20px">
-Codifico con
-</b> </p>
+<p> <b> Codifico con </b> </p>
 
 | | | |
 |-----|--------|----|
@@ -27,9 +22,7 @@ Codifico con
 | <image src="assets/mongodb_2.png" alt="" width="40"  height="40"> MongoDB | <image src="assets/mysql_2.png" alt="" width="40"  height="40"> MySQL | <image src="assets/postgresql_2.png" alt="" width="40"  height="40"> PostgreSQL |
 
 </br>
-<p> <b style="font-size:1.1rem; margin-top:20px">
-Apps y demos de proyectos 
-</b> </p>
+<p> <b> Apps y demos de proyectos </b> </p>
 
 <p>
 Ve descripciones y demos en: </br> 
@@ -48,7 +41,7 @@ https://play.google.com/store/apps/developer?id=El+Monte+Apps
 </br>
 <p> <b> Contacto </b> </p>
 <p>
-<image src="assets/mail.png" alt="" width="27"  style="margin-right: 7px;" >
+<image src="assets/mail.png" alt="" width="27" >
 &nbsp;
 mike.chavez.mx@gmail.com
 </p>
